@@ -1,3 +1,5 @@
+<br clear="both">
+
 <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVkOXlrNGlkZzlrZ2M1NXNidnBsZWR3b3hteTB6cWk0dDY5aDVmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ogtj2UPi8LPb5WfAMJ/giphy.gif"  />
 
 ###
@@ -10,6 +12,29 @@
 
 ###
 
+<i align="center">🧠 existence could be beautiful or it could be ugly but that's on you 🧠</p>
+
+###
+
+###
+
+```js
+class Person {
+  summonDeveloper() {
+    return {
+      name: 'Marcelo',
+      age: 21,
+      role: 'Full Stack Developer',
+      workplace: 'CGE/RO - Controladoria Geral do Estado de Rondônia'
+    };
+  }
+}
+
+const person = new Person().summonDeveloper();
+```
+###
+
+###
 <div align="right">
   <a href="https://www.linkedin.com/in/celodev11/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
