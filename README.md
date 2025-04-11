@@ -1,6 +1,6 @@
-<br clear="both">
-
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVkOXlrNGlkZzlrZ2M1NXNidnBsZWR3b3hteTB6cWk0dDY5aDVmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ogtj2UPi8LPb5WfAMJ/giphy.gif"  />
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVkOXlrNGlkZzlrZ2M1NXNidnBsZWR3b3hteTB6cWk0dDY5aDVmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ogtj2UPi8LPb5WfAMJ/giphy.gif"  />
+</div>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center"> 🧠<i>existence could be beautiful or it could be ugly but that's on you</i>🧠</p>
+<p align="center">🧠 existence could be beautiful or it could be ugly but that's on you 🧠</p>
 
 ###
 
