@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">🧠 existence could be beautiful or it could be ugly but that's on you 🧠</p>
+<p align="center">🧠 <i> existence could be beautiful or it could be ugly but that's on you </i> 🧠</p>
 
 ###
 
